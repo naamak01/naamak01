@@ -2,7 +2,7 @@
 
 <h1>Nana Amakye</h1>
 
-**`Curious Mind (Developer/YouTuber)`88
+**`Curious Mind (Developer/YouTuber)`**
 
 
 <!--
