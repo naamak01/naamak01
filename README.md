@@ -3,7 +3,7 @@
 <h1>Nana Amakye</h1>
 
 <!--
-**naamak01/naamak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Curious Mind (Developer/YouTuber)`88
 
 
 
