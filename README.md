@@ -9,7 +9,7 @@ except the Portfolio website which I used as a tutorial. Similar to my YouTube v
 related to programming I learned everything from editing, posting, video ideas, and research. My YouTube is non-coding related but is something I do educate other people. I have a creative mindset and pay close attention
 to details. Someone will say I have an artistic touch. If you are curious about my channel, you are welcome to check it out. I have a little over 15k subscribers. Channel name "[@nanakwesiamakye](https://www.youtube.com/@nanakwesiamakye)".
 
-
+---
 <!--
 
 
