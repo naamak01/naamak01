@@ -10,6 +10,16 @@ related to programming I learned everything from editing, posting, video ideas, 
 to details. Someone will say I have an artistic touch. If you are curious about my channel, you are welcome to check it out. I have a little over 15k subscribers. Channel name "[@nanakwesiamakye](https://www.youtube.com/@nanakwesiamakye)".
 
 ---
+
+###  Languages and Tools
+<img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+<br>          
+          
+                 
+
 <!--
 
 
