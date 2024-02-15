@@ -18,7 +18,7 @@ to details. Someone will say I have an artistic touch. If you are curious about 
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <br> 
 
---
+#
           
                  
 
