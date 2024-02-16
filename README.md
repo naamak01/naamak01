@@ -38,8 +38,7 @@ to details. Someone will say I have an artistic touch. If you are curious about 
 
 
 <div>
-<summary>:zap: GitHub Stats</summary>
-
+<h3>GitHub Stats</h3>
 
 <img alt="naamak01 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naamak01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
