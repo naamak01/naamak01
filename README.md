@@ -27,8 +27,6 @@ to details. Someone will say I have an artistic touch. If you are curious about 
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br>
 
-#
-
 ---
 
   <summary>:zap: GitHub Stats</summary>
@@ -36,6 +34,7 @@ to details. Someone will say I have an artistic touch. If you are curious about 
   <img align="left" alt="naamak01 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naamak01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
 
+#
   
   <summary>:zap:Nana's Coding Journey</summary>
     I started my coding journey just 2 years ago, as I was in my final year of graduating with a double major in Marketing, and Management. The idea of coding or learning how to build something with code was something I never really thought about. I just jumped into it      head first not knowing how tough the path can be. During the last couple of years as a Computer Science Major, I have learned and played with a few coding languages like Java, C++, and Python, and currently teaching myself Javascript. This journey has not been easy.     There have been times when I just wanted to give up. My imposter syndrome has been over the roof. Last year I took an intro to Web Development and that was when I started enjoying it. I found out just pure back-end is not really for me. I rather enjoy building       web applications, websites, full-stack apps, or things that involve creating things on both the visual and incorporating the back end as well. The road may seem long and scary, but I am ready to take up the challenge. 
