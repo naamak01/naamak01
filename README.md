@@ -33,7 +33,6 @@ to details. Someone will say I have an artistic touch. If you are curious about 
 ## Dashboards
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naamak01&layout=compact)
-
 <br>
 
 
