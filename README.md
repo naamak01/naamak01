@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm 👋
 
-<h1>Nana Amakye</h1>
+<h1>Nana</h1>
 
 **`Curious Mind (Developer/YouTuber)`**
 
