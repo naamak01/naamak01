@@ -11,6 +11,13 @@ to details. Someone will say I have an artistic touch. If you are curious about 
 
 ---
 
+## I'm a Student, Family Guy, and Adventurer!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with others
+- 🥅 2024 Goals: Learn more about technologies relating to Web Technologies and better health overall
+- ⚡ Fun fact: I love music and currently teaching myself how to play the guitar
+
 ###  Languages and Tools
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
