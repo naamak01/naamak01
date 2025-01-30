@@ -16,6 +16,23 @@ to details. Someone will say I have an artistic touch. If you are curious about 
 
 ---
 
+## 👨‍💻 Information Technology Projects:
+
+* osTicket (Help Desk Ticketing System)
+
+  ** https://github.com/naamak01/OS-Tcikets-Prereq
+
+  ** [OsTicket-Post-Install-Config](https://github.com/naamak01/OsTicket-Post-Install-Config)
+ 
+  ** https://github.com/naamak01/ticket-lifecycle
+
+* Microsoft Azure
+
+  ** Network Security Groups/ Inspecting Traffic Between Azure Virtual Machines
+  https://github.com/naamak01/Azure_Resources
+
+
+
 ## I'm a Student, Family Guy, and Adventurer!!
 
 - 🌱 I’m a curious individual who loves to challenge himself to learn new things🤣
