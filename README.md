@@ -30,6 +30,7 @@ to details. Someone will say I have an artistic touch. If you are curious about 
   ** Network Security Groups/ Inspecting Traffic Between Azure Virtual Machines
   https://github.com/naamak01/Azure_Resources
 
+  ** https://github.com/naamak01/Azure_VPN_Setup
 
 
 ## I'm a Student, Family Guy, and Adventurer!!
