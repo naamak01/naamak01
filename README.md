@@ -2,10 +2,15 @@
 
 <h1>Nana</h1>
 
-**`Curious Mind (Developer/YouTuber)`**
+**`Curious Mind (Developer| IT professional| YouTuber)`**
 
-I am a senior at Wayne State majoring in Computer Science, Marketing, and Management. All the codes I have public are built from scratch
-except the Portfolio website which I used as a tutorial. Similar to my YouTube videos which are to help other students and nothing 
+A recent graduate of Wayne State College who studied Computer Science, Marketing, and Management. All the codes I have public are built from scratch
+except the Portfolio website which I used as a tutorial. 
+
+A recent interest I have been pursuing has been QA and IT, specifically Cloud, Networking, Security, and Operating systems and how
+it impacts businesses.
+
+Similar to my YouTube videos which are to help other students and nothing 
 related to programming I learned everything from editing, posting, video ideas, and research. My YouTube is non-coding related but is something I do educate other people. I have a creative mindset and pay close attention
 to details. Someone will say I have an artistic touch. If you are curious about my channel, you are welcome to check it out. I have a little over 15k subscribers. Channel name "[@nanakwesiamakye](https://www.youtube.com/@nanakwesiamakye)".
 
@@ -13,9 +18,9 @@ to details. Someone will say I have an artistic touch. If you are curious about 
 
 ## I'm a Student, Family Guy, and Adventurer!!
 
-- 🌱 I’m currently learning everything, and be mentored 🤣
+- 🌱 I’m a curious individual who loves to challenge himself to learn new things🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2024 Goals: Learn more about technologies relating to the Web, get better at problem-solving and better health overall
+- 🥅 2025 Goals: Learn more about technologies relating to the Web, Cloud, Networking, Security, and better health overall
 - ⚡ Fun fact: I love music and currently teaching myself how to play the guitar
 
 ###  Languages and Tools
