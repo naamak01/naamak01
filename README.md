@@ -10,8 +10,7 @@ except the Portfolio website which I used as a tutorial.
 A recent interest I have been pursuing has been QA and IT, specifically Cloud, Networking, Security, and Operating systems and how
 it impacts businesses.
 
-Similar to my YouTube videos which are to help other students and nothing 
-related to programming I learned everything from editing, posting, video ideas, and research. My YouTube is non-coding related but is something I do educate other people. I have a creative mindset and pay close attention
+I have a YouTube Channel which I use to help other students and nothing related to programming. I learned everything from editing, posting, video ideas, and research. My YouTube is non-coding related but is something I do educate other people. I have a creative mindset and pay close attention
 to details. Someone will say I have an artistic touch. If you are curious about my channel, you are welcome to check it out. I have a little over 15k subscribers. Channel name "[@nanakwesiamakye](https://www.youtube.com/@nanakwesiamakye)".
 
 ---
