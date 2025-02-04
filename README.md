@@ -25,6 +25,14 @@ to details. Someone will say I have an artistic touch. If you are curious about 
  
   ** https://github.com/naamak01/ticket-lifecycle
 
+* Active Directory
+
+  ** https://github.com/naamak01/AD_Preparing_Active_Directory_In_Azure
+
+  ** https://github.com/naamak01/AD_Deploying_Active_Directory
+ 
+  ** https://github.com/naamak01/AD_Creating_Users_Group_Policies_And_Managing_Accounts
+
 * Microsoft Azure
 
   ** Network Security Groups/ Inspecting Traffic Between Azure Virtual Machines
