@@ -4,7 +4,7 @@
 
 **`Curious Mind (Developer| IT professional| YouTuber)`**
 
-A recent graduate of Wayne State College who studied Computer Science, Marketing, and Management. All the codes I have public are built from scratch
+A graduate of Wayne State College who studied Computer Science, Marketing, and Management. All the codes I have public are built from scratch
 except the Portfolio website which I used as a tutorial. 
 
 A recent interest I have been pursuing has been QA and IT, specifically Cloud, Networking, Security, and Operating systems and how
